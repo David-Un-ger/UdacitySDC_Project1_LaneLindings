@@ -11,11 +11,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
-
----
 
 ### Reflection
 
@@ -33,7 +28,7 @@ My pipeline consisted of 8 steps.
 8) Mark the lanes in the original image
 
 
-![alt text][test_images_output/solidWhiteRight.jpg]
+![alt text](/test_images_output/solidWhiteRight.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
